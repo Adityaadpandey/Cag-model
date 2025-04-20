@@ -1,1 +1,8 @@
 /sources
+/frames
+/chroma_db
+chroma.sqlite
+.gradio
+# frames.db
+/frames.db
+index.faiss
