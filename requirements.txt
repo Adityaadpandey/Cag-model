@@ -1,0 +1,7 @@
+opencv-python
+numpy
+torch
+Pillow
+faiss-cpu         # or faiss-gpu if you're using GPU
+moondream         # if this is a custom or niche package, might need to specify source
+sentence-transformers
